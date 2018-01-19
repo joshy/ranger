@@ -29,7 +29,7 @@ About
 -----
 * Authors:     see `AUTHORS` file
 * License:     GNU General Public License Version 3
-* Website:     http://ranger.nongnu.org/
+* Website:     https://ranger.github.io/
 * Download:    http://ranger.nongnu.org/ranger-stable.tar.gz
 * Bug reports: https://github.com/ranger/ranger/issues
 * git clone    http://git.sv.gnu.org/r/ranger.git
